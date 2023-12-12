@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body,html{
+  background-color: #f1f1f1;
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+#canvas{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
